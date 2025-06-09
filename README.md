@@ -4,7 +4,7 @@
 
 ## Πώς να κατεβάσετε το αρχείο
 
-Πατήστε [εδώ](https://tomeasgeoponias.github.io) για να μεταβείτε στη σελίδα λήψης.
+Πατήστε [εδώ](https://github.com/TomeasGeoponias/tomeasgeoponias/releases/tag/Trofima) για να μεταβείτε στη σελίδα λήψης.
 
 ## Άδεια χρήσης
 
