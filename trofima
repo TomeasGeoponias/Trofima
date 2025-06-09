@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>trofima</title>
+    <title>Πρόγραμμα Τομέα Γεωπονίας</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -30,13 +30,23 @@
             position: relative;
             top: 4px;
         }
+        .footer {
+            margin-top: 60px;
+            font-size: 0.9em;
+            color: #666;
+        }
     </style>
 </head>
 <body>
-    <h1>trofima</h1>
+    <h1>Πρόγραμμα Τομέα Γεωπονίας</h1>
     <p>Πατήστε το κουμπί για να κατεβάσετε το αρχείο .zip με το πρόγραμμα.</p>
     <a href="https://github.com/tomeasgeoponias/your-repo/releases/latest/download/programma.zip" class="download-btn" download>
         Κατέβασε το Πρόγραμμα
     </a>
+    
+    <div class="footer">
+        <p>Αυτό το έργο διατίθεται υπό την άδεια <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>.</p>
+        <p><a href="LICENSE">Δείτε το αρχείο LICENSE</a> για λεπτομέρειες.</p>
+    </div>
 </body>
 </html>
