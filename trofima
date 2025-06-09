@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>trofima</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 100px;
+            background-color: #f0f8ff;
+        }
+        a.download-btn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            font-size: 1.2em;
+            border-radius: 8px;
+            box-shadow: 0 4px #357a38;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        a.download-btn:hover {
+            background-color: #45a049;
+        }
+        a.download-btn:active {
+            box-shadow: none;
+            position: relative;
+            top: 4px;
+        }
+    </style>
+</head>
+<body>
+    <h1>trofima</h1>
+    <p>Πατήστε το κουμπί για να κατεβάσετε το αρχείο .zip με το πρόγραμμα.</p>
+    <a href="https://github.com/tomeasgeoponias/your-repo/releases/latest/download/programma.zip" class="download-btn" download>
+        Κατέβασε το Πρόγραμμα
+    </a>
+</body>
+</html>
